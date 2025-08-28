@@ -40,7 +40,7 @@ IP контейнера:
 
 ![part1](screen/screen8.png)
 
-![part1](screen/screen9.png)
+![part1](screen/screen12.png)
 
 8) Перезапусти докер контейнер через `docker restart [container_id|container_name]`:
 
